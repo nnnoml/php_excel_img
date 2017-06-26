@@ -1,0 +1,6 @@
+{
+    "name": "administrator/jike_data",
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
